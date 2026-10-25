@@ -1,0 +1,13 @@
+attendee_id,first_name,last_name,email,company,company_domain,crm_account_id,attendance_status,webinar_date
+A001,Maya,Chen,maya.chen@northstarcloud.example,Northstar Cloud,northstarcloud.example,NS-101,Attended,2026-10-15
+A002,Owen,Rivera,owen.rivera@northstarcloud.example,Northstar Cloud,northstarcloud.example,NS-101,Attended,2026-10-15
+A003,Lila,Brooks,lila@cedarpoint.example,Cedarpoint Security,cedarpoint.example,CP-202,Attended,2026-10-15
+A004,Ethan,Patel,ethan@bluemesa.example,Blue Mesa Systems,bluemesa.example,BM-303,No-show,2026-10-15
+A005,Nina,Torres,nina@ridgeway.example,Ridgeway Analytics,ridgeway.example,RA-404,Attended,2026-10-15
+A006,Alex,Kim,alex@meridianlabs.example,Meridian Labs,meridianlabs.example,ML-505,Attended,2026-10-15
+A007,Jordan,Reed,jordan@pinecrest.example,Pinecrest Digital,pinecrest.example,PD-606,Attended,2026-10-15
+A008,Sam,Walker,sam@gmail.example,Northstar Cloud,,,Attended,2026-10-15
+A009,Ari,Morgan,ari@harborline.example,Harborline Software,harborline.example,HS-707,Attended,2026-10-15
+A010,Casey,Lee,casey@cedarpoint.example,Cedarpoint Security,cedarpoint.example,CP-202,No-show,2026-10-15
+A011,Riley,Grant,riley@blue-mesa.example,Blue Mesa Systems,blue-mesa.example,,Attended,2026-10-15
+A012,Taylor,Jones,taylor@summitworks.example,Summit Works,summitworks.example,SW-808,Attended,2026-10-15

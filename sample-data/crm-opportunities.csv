@@ -1,0 +1,9 @@
+opportunity_id,crm_account_id,account_name,company_domain,opportunity_name,stage,created_date,amount_usd
+O-1001,NS-101,Northstar Cloud,northstarcloud.example,Security Platform Expansion,Qualified,2026-10-22,150000
+O-1002,CP-202,Cedarpoint Security,cedarpoint.example,Identity Modernization,Discovery,2026-09-25,85000
+O-1003,BM-303,Blue Mesa Systems,bluemesa.example,Observability Pilot,Proposal,2026-10-19,120000
+O-1004,RA-404,Ridgeway Analytics,ridgeway.example,Analytics Renewal,Open,2026-08-12,70000
+O-1005,ML-505,Meridian Labs,meridianlabs.example,AI Operations Evaluation,Discovery,2026-10-20,110000
+O-1006,PD-606,Pinecrest Digital,pinecrest.example,Cloud Security Assessment,Closed Lost,2026-10-23,60000
+O-1007,HS-707,Harborline Software,harborline.example,Data Platform Review,Qualified,2026-10-21,95000
+O-1008,BM-909,Blue Mesa Services,blue-mesa.example,Network Security Upgrade,Qualified,2026-10-24,40000
