@@ -69,5 +69,47 @@
 .connection-landing-grid{margin:35px 0}
 @media(max-width:650px){.next-choice-grid{grid-template-columns:1fr}}
 
+/* Matching Claude and ChatGPT tutorial cards */
+.connect-choice-grid .cta {
+  position: relative;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  align-items: start;
+  gap: 12px;
+  min-height: 190px;
+  padding: 28px 30px;
+  padding-right: 52px;
+  box-sizing: border-box;
+}
+
+.connect-choice-grid .cta > span:first-child {
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  line-height: 1.4;
+}
+
+.connect-choice-grid .cta strong {
+  align-self: center;
+  font-family: Georgia, serif;
+  font-size: clamp(1.35rem, 2vw, 1.65rem);
+  line-height: 1.2;
+}
+
+.connect-choice-grid .cta small {
+  align-self: end;
+  line-height: 1.4;
+}
+
+.connect-choice-grid .choice-arrow {
+  position: absolute;
+  top: 22px;
+  right: 24px;
+  font-size: 1.5rem;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+
 /* More readable reminder heading on the homepage */
 .rule .rule-heading{display:block;font-size:clamp(1rem,2.3vw,1.35rem);font-weight:900;letter-spacing:.12em;line-height:1.35;color:var(--yellow);margin-bottom:12px}
