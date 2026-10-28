@@ -113,9 +113,12 @@
 
 /* More readable reminder heading on the homepage */
 .rule .rule-heading{display:block;font-size:clamp(1rem,2.3vw,1.35rem);font-weight:900;letter-spacing:.12em;line-height:1.35;color:var(--yellow);margin-bottom:12px}
-h1 {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(3.8rem, 8vw, 7.1rem);
-  letter-spacing: -.065em;
-  margin: 22px 0 30px;
+
+/* Smaller headline on Connect Your Apps page */
+.hero-grid:has(.workflow-art) h1,
+body:has(.connection-landing-grid) .hero h1 {
+  font-size: clamp(2.8rem, 5.5vw, 5rem);
+  line-height: 1.1;
+  letter-spacing: -0.045em;
 }
+
