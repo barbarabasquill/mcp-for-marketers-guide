@@ -113,3 +113,9 @@
 
 /* More readable reminder heading on the homepage */
 .rule .rule-heading{display:block;font-size:clamp(1rem,2.3vw,1.35rem);font-weight:900;letter-spacing:.12em;line-height:1.35;color:var(--yellow);margin-bottom:12px}
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3.8rem, 8vw, 7.1rem);
+  letter-spacing: -.065em;
+  margin: 22px 0 30px;
+}
